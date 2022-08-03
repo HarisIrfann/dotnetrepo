@@ -1,0 +1,32 @@
+D:\Personal Projects\WPFJenkins\WpfJenkins\WpfJenkins\bin\Debug\WpfJenkins.exe.config
+D:\Personal Projects\WPFJenkins\WpfJenkins\WpfJenkins\bin\Debug\WpfJenkins.exe
+D:\Personal Projects\WPFJenkins\WpfJenkins\WpfJenkins\bin\Debug\WpfJenkins.pdb
+D:\Personal Projects\WPFJenkins\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins.csproj.AssemblyReference.cache
+D:\Personal Projects\WPFJenkins\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins.csproj.SuggestedBindingRedirects.cache
+D:\Personal Projects\WPFJenkins\WpfJenkins\WpfJenkins\obj\Debug\MainWindow.g.cs
+D:\Personal Projects\WPFJenkins\WpfJenkins\WpfJenkins\obj\Debug\App.g.cs
+D:\Personal Projects\WPFJenkins\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins_MarkupCompile.cache
+D:\Personal Projects\WPFJenkins\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins_MarkupCompile.lref
+D:\Personal Projects\WPFJenkins\WpfJenkins\WpfJenkins\obj\Debug\MainWindow.baml
+D:\Personal Projects\WPFJenkins\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins.g.resources
+D:\Personal Projects\WPFJenkins\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins.Properties.Resources.resources
+D:\Personal Projects\WPFJenkins\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins.csproj.GenerateResource.cache
+D:\Personal Projects\WPFJenkins\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins.csproj.CoreCompileInputs.cache
+D:\Personal Projects\WPFJenkins\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins.exe
+D:\Personal Projects\WPFJenkins\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins.pdb
+C:\Users\User\Downloads\WpfJenkins\WpfJenkins\bin\Debug\WpfJenkins.exe.config
+C:\Users\User\Downloads\WpfJenkins\WpfJenkins\bin\Debug\WpfJenkins.exe
+C:\Users\User\Downloads\WpfJenkins\WpfJenkins\bin\Debug\WpfJenkins.pdb
+C:\Users\User\Downloads\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\WpfJenkins\WpfJenkins\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\WpfJenkins\WpfJenkins\obj\Debug\App.g.cs
+C:\Users\User\Downloads\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins_MarkupCompile.cache
+C:\Users\User\Downloads\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins_MarkupCompile.lref
+C:\Users\User\Downloads\WpfJenkins\WpfJenkins\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins.g.resources
+C:\Users\User\Downloads\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins.Properties.Resources.resources
+C:\Users\User\Downloads\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins.csproj.GenerateResource.cache
+C:\Users\User\Downloads\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins.exe
+C:\Users\User\Downloads\WpfJenkins\WpfJenkins\obj\Debug\WpfJenkins.pdb
